@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/codelaravel25251982/monsters-rolodex/static/css/main.809b184f.chunk.css",
+    "main.js": "/codelaravel25251982/monsters-rolodex/static/js/main.64fbf74f.chunk.js",
+    "main.js.map": "/codelaravel25251982/monsters-rolodex/static/js/main.64fbf74f.chunk.js.map",
+    "runtime-main.js": "/codelaravel25251982/monsters-rolodex/static/js/runtime-main.13a0ef2e.js",
+    "runtime-main.js.map": "/codelaravel25251982/monsters-rolodex/static/js/runtime-main.13a0ef2e.js.map",
+    "static/js/2.5e13e005.chunk.js": "/codelaravel25251982/monsters-rolodex/static/js/2.5e13e005.chunk.js",
+    "static/js/2.5e13e005.chunk.js.map": "/codelaravel25251982/monsters-rolodex/static/js/2.5e13e005.chunk.js.map",
+    "static/js/3.a612b9b8.chunk.js": "/codelaravel25251982/monsters-rolodex/static/js/3.a612b9b8.chunk.js",
+    "static/js/3.a612b9b8.chunk.js.map": "/codelaravel25251982/monsters-rolodex/static/js/3.a612b9b8.chunk.js.map",
+    "index.html": "/codelaravel25251982/monsters-rolodex/index.html",
+    "static/css/main.809b184f.chunk.css.map": "/codelaravel25251982/monsters-rolodex/static/css/main.809b184f.chunk.css.map",
+    "static/js/2.5e13e005.chunk.js.LICENSE.txt": "/codelaravel25251982/monsters-rolodex/static/js/2.5e13e005.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13a0ef2e.js",
+    "static/js/2.5e13e005.chunk.js",
+    "static/css/main.809b184f.chunk.css",
+    "static/js/main.64fbf74f.chunk.js"
+  ]
+}
